@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Carousel1 from '../../assets/img/carousel-1.jpg';
-import Carousel2 from '../../assets/img/carousel-2.jpg';
+// import carousel1 from '../../assets/img/carousel-1.jpg';
+import carousel2 from '../../assets/img/carousel-2.jpg';
 
 const FirstHomeSection = () => (
   <div className="container-fluid header bg-white p-0">
@@ -22,10 +22,10 @@ const FirstHomeSection = () => (
       <div className="col-md-6 animated fadeIn">
         <div className="owl-carousel header-carousel">
           <div className="owl-carousel-item">
-            <img className="img-fluid" src={Carousel1} alt="image1" />
+            <img className="img-fluid" src="img/carousel-1.jpg" alt="image1" />
           </div>
           <div className="owl-carousel-item">
-            <img className="img-fluid" src={Carousel2} alt="" />
+            <img className="img-fluid" src={carousel2} alt="" />
           </div>
           <h2>carousel</h2>
         </div>
