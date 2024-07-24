@@ -30,6 +30,11 @@
   ],
   "ignorePatterns": [
     "dist/",
-    "build/"
+    "build/",
+    "public/css",
+    "public/img",
+    "public/js",
+    "public/lib",
+    "public/scss"
   ]
 }
