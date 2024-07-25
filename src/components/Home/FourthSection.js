@@ -34,13 +34,13 @@ const FourthSection = () => (
             <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
               <div className="property-item rounded overflow-hidden">
                 <div className="position-relative overflow-hidden">
-                  <Link to=""><img className="img-fluid" src="img/property-1.jpg" alt="" /></Link>
+                  <Link to="/"><img className="img-fluid" src="img/property-1.jpg" alt="" /></Link>
                   <div className="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Sell</div>
                   <div className="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Appartment</div>
                 </div>
                 <div className="p-4 pb-0">
                   <h5 className="text-primary mb-3">$12,345</h5>
-                  <Link class="d-block h5 mb-2" to="">Golden Urban House For Sell</Link>
+                  <Link class="d-block h5 mb-2" to="/">Golden Urban House For Sell</Link>
                   <p>
                     <i className="fa fa-map-marker-alt text-primary me-2" />
                     123 Street, New York, USA
@@ -65,13 +65,13 @@ const FourthSection = () => (
             <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
               <div className="property-item rounded overflow-hidden">
                 <div className="position-relative overflow-hidden">
-                  <Link to=""><img className="img-fluid" src="img/property-2.jpg" alt="" /></Link>
+                  <Link to="/"><img className="img-fluid" src="img/property-2.jpg" alt="" /></Link>
                   <div className="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Rent</div>
                   <div className="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Villa</div>
                 </div>
                 <div className="p-4 pb-0">
                   <h5 className="text-primary mb-3">$12,345</h5>
-                  <Link class="d-block h5 mb-2" to="">Golden Urban House For Sell</Link>
+                  <Link class="d-block h5 mb-2" to="/">Golden Urban House For Sell</Link>
                   <p>
                     <i className="fa fa-map-marker-alt text-primary me-2" />
                     123 Street, New York, USA
@@ -96,13 +96,13 @@ const FourthSection = () => (
             <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
               <div className="property-item rounded overflow-hidden">
                 <div className="position-relative overflow-hidden">
-                  <Link to=""><img className="img-fluid" src="img/property-3.jpg" alt="" /></Link>
+                  <Link to="/"><img className="img-fluid" src="img/property-3.jpg" alt="" /></Link>
                   <div className="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Sell</div>
                   <div className="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Office</div>
                 </div>
                 <div className="p-4 pb-0">
                   <h5 className="text-primary mb-3">$12,345</h5>
-                  <Link class="d-block h5 mb-2" to="">Golden Urban House For Sell</Link>
+                  <Link class="d-block h5 mb-2" to="/">Golden Urban House For Sell</Link>
                   <p>
                     <i className="fa fa-map-marker-alt text-primary me-2" />
                     123 Street, New York, USA
@@ -127,13 +127,13 @@ const FourthSection = () => (
             <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
               <div className="property-item rounded overflow-hidden">
                 <div className="position-relative overflow-hidden">
-                  <Link to=""><img className="img-fluid" src="img/property-4.jpg" alt="" /></Link>
+                  <Link to="/"><img className="img-fluid" src="img/property-4.jpg" alt="" /></Link>
                   <div className="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Rent</div>
                   <div className="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Building</div>
                 </div>
                 <div className="p-4 pb-0">
                   <h5 className="text-primary mb-3">$12,345</h5>
-                  <Link class="d-block h5 mb-2" to="">Golden Urban House For Sell</Link>
+                  <Link class="d-block h5 mb-2" to="/">Golden Urban House For Sell</Link>
                   <p>
                     <i className="fa fa-map-marker-alt text-primary me-2" />
                     123 Street, New York, USA
@@ -158,13 +158,13 @@ const FourthSection = () => (
             <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
               <div className="property-item rounded overflow-hidden">
                 <div className="position-relative overflow-hidden">
-                  <Link to=""><img className="img-fluid" src="img/property-5.jpg" alt="" /></Link>
+                  <Link to="/"><img className="img-fluid" src="img/property-5.jpg" alt="" /></Link>
                   <div className="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Sell</div>
                   <div className="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Home</div>
                 </div>
                 <div className="p-4 pb-0">
                   <h5 className="text-primary mb-3">$12,345</h5>
-                  <Link class="d-block h5 mb-2" to="">Golden Urban House For Sell</Link>
+                  <Link class="d-block h5 mb-2" to="/">Golden Urban House For Sell</Link>
                   <p>
                     <i className="fa fa-map-marker-alt text-primary me-2" />
                     123 Street, New York, USA
@@ -189,13 +189,13 @@ const FourthSection = () => (
             <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
               <div className="property-item rounded overflow-hidden">
                 <div className="position-relative overflow-hidden">
-                  <Link to=""><img className="img-fluid" src="img/property-6.jpg" alt="" /></Link>
+                  <Link to="/"><img className="img-fluid" src="img/property-6.jpg" alt="" /></Link>
                   <div className="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Rent</div>
                   <div className="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Shop</div>
                 </div>
                 <div className="p-4 pb-0">
                   <h5 className="text-primary mb-3">$12,345</h5>
-                  <Link class="d-block h5 mb-2" to="">Golden Urban House For Sell</Link>
+                  <Link class="d-block h5 mb-2" to="/">Golden Urban House For Sell</Link>
                   <p>
                     <i className="fa fa-map-marker-alt text-primary me-2" />
                     123 Street, New York, USA
@@ -218,7 +218,7 @@ const FourthSection = () => (
               </div>
             </div>
             <div className="col-12 text-center wow fadeInUp" data-wow-delay="0.1s">
-              <Link class="btn btn-primary py-3 px-5" to="">Browse More Property</Link>
+              <Link class="btn btn-primary py-3 px-5" to="/">Browse More Property</Link>
             </div>
           </div>
         </div>
@@ -227,13 +227,13 @@ const FourthSection = () => (
             <div className="col-lg-4 col-md-6">
               <div className="property-item rounded overflow-hidden">
                 <div className="position-relative overflow-hidden">
-                  <Link to=""><img className="img-fluid" src="img/property-1.jpg" alt="" /></Link>
+                  <Link to="/"><img className="img-fluid" src="img/property-1.jpg" alt="" /></Link>
                   <div className="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Sell</div>
                   <div className="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Appartment</div>
                 </div>
                 <div className="p-4 pb-0">
                   <h5 className="text-primary mb-3">$12,345</h5>
-                  <Link class="d-block h5 mb-2" to="">Golden Urban House For Sell</Link>
+                  <Link class="d-block h5 mb-2" to="/">Golden Urban House For Sell</Link>
                   <p>
                     <i className="fa fa-map-marker-alt text-primary me-2" />
                     123 Street, New York, USA
@@ -258,13 +258,13 @@ const FourthSection = () => (
             <div className="col-lg-4 col-md-6">
               <div className="property-item rounded overflow-hidden">
                 <div className="position-relative overflow-hidden">
-                  <Link to=""><img className="img-fluid" src="img/property-2.jpg" alt="" /></Link>
+                  <Link to="/"><img className="img-fluid" src="img/property-2.jpg" alt="" /></Link>
                   <div className="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Rent</div>
                   <div className="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Villa</div>
                 </div>
                 <div className="p-4 pb-0">
                   <h5 className="text-primary mb-3">$12,345</h5>
-                  <Link class="d-block h5 mb-2" to="">Golden Urban House For Sell</Link>
+                  <Link class="d-block h5 mb-2" to="/">Golden Urban House For Sell</Link>
                   <p>
                     <i className="fa fa-map-marker-alt text-primary me-2" />
                     123 Street, New York, USA
@@ -289,13 +289,13 @@ const FourthSection = () => (
             <div className="col-lg-4 col-md-6">
               <div className="property-item rounded overflow-hidden">
                 <div className="position-relative overflow-hidden">
-                  <Link to=""><img className="img-fluid" src="img/property-3.jpg" alt="" /></Link>
+                  <Link to="/"><img className="img-fluid" src="img/property-3.jpg" alt="" /></Link>
                   <div className="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Sell</div>
                   <div className="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Office</div>
                 </div>
                 <div className="p-4 pb-0">
                   <h5 className="text-primary mb-3">$12,345</h5>
-                  <Link class="d-block h5 mb-2" to="">Golden Urban House For Sell</Link>
+                  <Link class="d-block h5 mb-2" to="/">Golden Urban House For Sell</Link>
                   <p>
                     <i className="fa fa-map-marker-alt text-primary me-2" />
                     123 Street, New York, USA
@@ -320,13 +320,13 @@ const FourthSection = () => (
             <div className="col-lg-4 col-md-6">
               <div className="property-item rounded overflow-hidden">
                 <div className="position-relative overflow-hidden">
-                  <Link to=""><img className="img-fluid" src="img/property-4.jpg" alt="" /></Link>
+                  <Link to="/"><img className="img-fluid" src="img/property-4.jpg" alt="" /></Link>
                   <div className="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Rent</div>
                   <div className="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Building</div>
                 </div>
                 <div className="p-4 pb-0">
                   <h5 className="text-primary mb-3">$12,345</h5>
-                  <Link class="d-block h5 mb-2" to="">Golden Urban House For Sell</Link>
+                  <Link class="d-block h5 mb-2" to="/">Golden Urban House For Sell</Link>
                   <p>
                     <i className="fa fa-map-marker-alt text-primary me-2" />
                     123 Street, New York, USA
@@ -351,13 +351,13 @@ const FourthSection = () => (
             <div className="col-lg-4 col-md-6">
               <div className="property-item rounded overflow-hidden">
                 <div className="position-relative overflow-hidden">
-                  <Link to=""><img className="img-fluid" src="img/property-5.jpg" alt="" /></Link>
+                  <Link to="/"><img className="img-fluid" src="img/property-5.jpg" alt="" /></Link>
                   <div className="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Sell</div>
                   <div className="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Home</div>
                 </div>
                 <div className="p-4 pb-0">
                   <h5 className="text-primary mb-3">$12,345</h5>
-                  <Link class="d-block h5 mb-2" to="">Golden Urban House For Sell</Link>
+                  <Link class="d-block h5 mb-2" to="/">Golden Urban House For Sell</Link>
                   <p>
                     <i className="fa fa-map-marker-alt text-primary me-2" />
                     123 Street, New York, USA
@@ -382,13 +382,13 @@ const FourthSection = () => (
             <div className="col-lg-4 col-md-6">
               <div className="property-item rounded overflow-hidden">
                 <div className="position-relative overflow-hidden">
-                  <Link to=""><img className="img-fluid" src="img/property-6.jpg" alt="" /></Link>
+                  <Link to="/"><img className="img-fluid" src="img/property-6.jpg" alt="" /></Link>
                   <div className="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Rent</div>
                   <div className="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Shop</div>
                 </div>
                 <div className="p-4 pb-0">
                   <h5 className="text-primary mb-3">$12,345</h5>
-                  <Link class="d-block h5 mb-2" to="">Golden Urban House For Sell</Link>
+                  <Link class="d-block h5 mb-2" to="/">Golden Urban House For Sell</Link>
                   <p>
                     <i className="fa fa-map-marker-alt text-primary me-2" />
                     123 Street, New York, USA
@@ -411,7 +411,7 @@ const FourthSection = () => (
               </div>
             </div>
             <div className="col-12 text-center">
-              <Link class="btn btn-primary py-3 px-5" to="">Browse More Property</Link>
+              <Link class="btn btn-primary py-3 px-5" to="/">Browse More Property</Link>
             </div>
           </div>
         </div>
@@ -420,13 +420,13 @@ const FourthSection = () => (
             <div className="col-lg-4 col-md-6">
               <div className="property-item rounded overflow-hidden">
                 <div className="position-relative overflow-hidden">
-                  <Link to=""><img className="img-fluid" src="img/property-1.jpg" alt="" /></Link>
+                  <Link to="/"><img className="img-fluid" src="img/property-1.jpg" alt="" /></Link>
                   <div className="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Sell</div>
                   <div className="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Appartment</div>
                 </div>
                 <div className="p-4 pb-0">
                   <h5 className="text-primary mb-3">$12,345</h5>
-                  <Link class="d-block h5 mb-2" to="">Golden Urban House For Sell</Link>
+                  <Link class="d-block h5 mb-2" to="/">Golden Urban House For Sell</Link>
                   <p>
                     <i className="fa fa-map-marker-alt text-primary me-2" />
                     123 Street, New York, USA
@@ -451,13 +451,13 @@ const FourthSection = () => (
             <div className="col-lg-4 col-md-6">
               <div className="property-item rounded overflow-hidden">
                 <div className="position-relative overflow-hidden">
-                  <Link to=""><img className="img-fluid" src="img/property-2.jpg" alt="" /></Link>
+                  <Link to="/"><img className="img-fluid" src="img/property-2.jpg" alt="" /></Link>
                   <div className="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Rent</div>
                   <div className="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Villa</div>
                 </div>
                 <div className="p-4 pb-0">
                   <h5 className="text-primary mb-3">$12,345</h5>
-                  <Link class="d-block h5 mb-2" to="">Golden Urban House For Sell</Link>
+                  <Link class="d-block h5 mb-2" to="/">Golden Urban House For Sell</Link>
                   <p>
                     <i className="fa fa-map-marker-alt text-primary me-2" />
                     123 Street, New York, USA
@@ -482,13 +482,13 @@ const FourthSection = () => (
             <div className="col-lg-4 col-md-6">
               <div className="property-item rounded overflow-hidden">
                 <div className="position-relative overflow-hidden">
-                  <Link to=""><img className="img-fluid" src="img/property-3.jpg" alt="" /></Link>
+                  <Link to="/"><img className="img-fluid" src="img/property-3.jpg" alt="" /></Link>
                   <div className="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Sell</div>
                   <div className="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Office</div>
                 </div>
                 <div className="p-4 pb-0">
                   <h5 className="text-primary mb-3">$12,345</h5>
-                  <Link class="d-block h5 mb-2" to="">Golden Urban House For Sell</Link>
+                  <Link class="d-block h5 mb-2" to="/">Golden Urban House For Sell</Link>
                   <p>
                     <i className="fa fa-map-marker-alt text-primary me-2" />
                     123 Street, New York, USA
@@ -513,13 +513,13 @@ const FourthSection = () => (
             <div className="col-lg-4 col-md-6">
               <div className="property-item rounded overflow-hidden">
                 <div className="position-relative overflow-hidden">
-                  <Link to=""><img className="img-fluid" src="img/property-4.jpg" alt="" /></Link>
+                  <Link to="/"><img className="img-fluid" src="img/property-4.jpg" alt="" /></Link>
                   <div className="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Rent</div>
                   <div className="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Building</div>
                 </div>
                 <div className="p-4 pb-0">
                   <h5 className="text-primary mb-3">$12,345</h5>
-                  <Link class="d-block h5 mb-2" to="">Golden Urban House For Sell</Link>
+                  <Link class="d-block h5 mb-2" to="/">Golden Urban House For Sell</Link>
                   <p>
                     <i className="fa fa-map-marker-alt text-primary me-2" />
                     123 Street, New York, USA
@@ -544,13 +544,13 @@ const FourthSection = () => (
             <div className="col-lg-4 col-md-6">
               <div className="property-item rounded overflow-hidden">
                 <div className="position-relative overflow-hidden">
-                  <Link to=""><img className="img-fluid" src="img/property-5.jpg" alt="" /></Link>
+                  <Link to="/"><img className="img-fluid" src="img/property-5.jpg" alt="" /></Link>
                   <div className="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Sell</div>
                   <div className="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Home</div>
                 </div>
                 <div className="p-4 pb-0">
                   <h5 className="text-primary mb-3">$12,345</h5>
-                  <Link class="d-block h5 mb-2" to="">Golden Urban House For Sell</Link>
+                  <Link class="d-block h5 mb-2" to="/">Golden Urban House For Sell</Link>
                   <p>
                     <i className="fa fa-map-marker-alt text-primary me-2" />
                     123 Street, New York, USA
@@ -575,13 +575,13 @@ const FourthSection = () => (
             <div className="col-lg-4 col-md-6">
               <div className="property-item rounded overflow-hidden">
                 <div className="position-relative overflow-hidden">
-                  <Link to=""><img className="img-fluid" src="img/property-6.jpg" alt="" /></Link>
+                  <Link to="/"><img className="img-fluid" src="img/property-6.jpg" alt="" /></Link>
                   <div className="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">For Rent</div>
                   <div className="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">Shop</div>
                 </div>
                 <div className="p-4 pb-0">
                   <h5 className="text-primary mb-3">$12,345</h5>
-                  <Link class="d-block h5 mb-2" to="">Golden Urban House For Sell</Link>
+                  <Link class="d-block h5 mb-2" to="/">Golden Urban House For Sell</Link>
                   <p>
                     <i className="fa fa-map-marker-alt text-primary me-2" />
                     123 Street, New York, USA
@@ -604,7 +604,7 @@ const FourthSection = () => (
               </div>
             </div>
             <div className="col-12 text-center">
-              <Link class="btn btn-primary py-3 px-5" to="">Browse More Property</Link>
+              <Link class="btn btn-primary py-3 px-5" to="/">Browse More Property</Link>
             </div>
           </div>
         </div>
