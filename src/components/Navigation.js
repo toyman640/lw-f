@@ -20,7 +20,7 @@ const Navigation = () => (
           <div className="nav-item dropdown">
             <Link to="https://www.google.com/" className="nav-link dropdown-toggle" data-bs-toggle="dropdown">Property</Link>
             <div className="dropdown-menu rounded-0 m-0">
-              <Link to="property-list.html" className="dropdown-item">Property List</Link>
+              <Link to="/property-list" className="dropdown-item">Property List</Link>
               <Link to="property-type.html" className="dropdown-item">Property Type</Link>
               <Link to="property-agent.html" className="dropdown-item">Property Agent</Link>
             </div>
