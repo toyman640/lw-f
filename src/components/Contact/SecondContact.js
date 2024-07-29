@@ -55,7 +55,6 @@ const SecondContact = () => (
             style={{ minHeight: '400px', border: '0' }}
             allowfullscreen=""
             aria-hidden="false"
-            tabIndex="0"
           />
         </div>
         <div className="col-md-6">
@@ -72,26 +71,34 @@ const SecondContact = () => (
               <div className="row g-3">
                 <div className="col-md-6">
                   <div className="form-floating">
-                    <input type="text" className="form-control" id="name" placeholder="Your Name" />
-                    <label htmlFor="name">Your Name</label>
+                    <label htmlFor="name">
+                      Your Name
+                      <input type="text" className="form-control" id="name" placeholder="Your Name" />
+                    </label>
                   </div>
                 </div>
                 <div className="col-md-6">
                   <div className="form-floating">
-                    <input type="email" className="form-control" id="email" placeholder="Your Email" />
-                    <label htmlFor="email">Your Email</label>
+                    <label htmlFor="email">
+                      Your Email
+                      <input type="email" className="form-control" id="email" placeholder="Your Email" />
+                    </label>
                   </div>
                 </div>
                 <div className="col-12">
                   <div className="form-floating">
-                    <input type="text" className="form-control" id="subject" placeholder="Subject" />
-                    <label htmlFor="subject">Subject</label>
+                    <label htmlFor="subject">
+                      Subject
+                      <input type="text" className="form-control" id="subject" placeholder="Subject" />
+                    </label>
                   </div>
                 </div>
                 <div className="col-12">
                   <div className="form-floating">
-                    <textarea className="form-control" placeholder="Leave a message here" id="message" style={{ height: '150px' }} />
-                    <label htmlFor="message">Message</label>
+                    <label htmlFor="message">
+                      Message
+                      <textarea className="form-control" placeholder="Leave a message here" id="message" style={{ height: '150px' }} />
+                    </label>
                   </div>
                 </div>
                 <div className="col-12">

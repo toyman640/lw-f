@@ -17,6 +17,8 @@ const Navigation = () => (
         <div className="navbar-nav ms-auto">
           <Link to="/" className="nav-item nav-link active">Home</Link>
           <Link to="/about" className="nav-item nav-link">About</Link>
+          <Link to="/property-list" className="nav-item nav-link">Property List</Link>
+          {/* <Link to="/error-404" className="dropdown-item">404 Error</Link>
           <div className="nav-item dropdown">
             <Link to="https://www.google.com/" className="nav-link dropdown-toggle" data-bs-toggle="dropdown">Property</Link>
             <div className="dropdown-menu rounded-0 m-0">
@@ -29,9 +31,9 @@ const Navigation = () => (
             <Link to="https://www.google.com/" className="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</Link>
             <div className="dropdown-menu rounded-0 m-0">
               <Link to="testimonial.html" className="dropdown-item">Testimonial</Link>
-              <Link to="404.html" className="dropdown-item">404 Error</Link>
+              <Link to="/error-404" className="dropdown-item">404 Error</Link>
             </div>
-          </div>
+          </div> */}
           <Link to="/contact-us" className="nav-item nav-link">Contact</Link>
         </div>
         <Link to="https://www.google.com/" className="btn btn-primary px-3 d-none d-lg-flex">Add Property</Link>
