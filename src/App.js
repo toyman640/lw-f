@@ -1,28 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import HomeContainer from './components/Home/HomeContainer';
+import PropContainer from './components/Property/PropContainer';
+import AboutContainer from './components/About/AboutContainer';
+import ContactContain from './components/Contact/ContactContain';
+import ErrorComponent from './components/Error/ErrorPageMain';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit
-          {' '}
-          <code>src/App.js</code>
-          {' '}
-          and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <BrowserRouter>
+        <Routes>
+          <Route exact path="/" element={<HomeContainer />} />
+          <Route exact path="/property-list" element={<PropContainer />} />
+          <Route exact path="/about" element={<AboutContainer />} />
+          <Route exact path="/contact-us" element={<ContactContain />} />
+          <Route exact path="/error-404" element={<ErrorComponent />} />
+        </Routes>
+      </BrowserRouter>
+    </>
   );
 }
 
