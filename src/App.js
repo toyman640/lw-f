@@ -3,6 +3,7 @@ import HomeContainer from './components/Home/HomeContainer';
 import PropContainer from './components/Property/PropContainer';
 import AboutContainer from './components/About/AboutContainer';
 import ContactContain from './components/Contact/ContactContain';
+import ErrorComponent from './components/Error/ErrorPageMain';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
           <Route exact path="/property-list" element={<PropContainer />} />
           <Route exact path="/about" element={<AboutContainer />} />
           <Route exact path="/contact-us" element={<ContactContain />} />
+          <Route exact path="/error-404" element={<ErrorComponent />} />
         </Routes>
       </BrowserRouter>
     </>
