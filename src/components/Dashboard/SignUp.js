@@ -6,7 +6,7 @@ import Button from 'react-bootstrap/Button';
 
 const SignUp = () => (
   <div>
-    <h1 className="text-center mt-5 col-">Sign Up User</h1>
+    <h1 className="text-center mt-5">Sign Up User</h1>
     <div className="col-8 offset-2">
       <Form>
         <Row className="mb-3">
